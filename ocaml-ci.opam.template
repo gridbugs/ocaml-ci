@@ -1,0 +1,4 @@
+pin-depends: [
+  ["tar.2.3.0.~dev" "git+https://github.com/mirage/ocaml-tar.git#850018d053090bd9aa970f8c09f828645da7b4ea"]
+  ["tar-unix.2.3.0.~dev" "git+https://github.com/mirage/ocaml-tar.git#850018d053090bd9aa970f8c09f828645da7b4ea"]
+]
